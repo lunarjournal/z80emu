@@ -8,5 +8,5 @@ Z80 assembly programs are intended to be compiled with [z80asm](https://www.nong
 
 Files:
 <br/>
-* `z80.ts` - Core implementation. <br/>
-* `main.ts` - Simulator interface.
+* `z80.ts` - core implementation. <br/>
+* `main.ts` - simulator interface.
