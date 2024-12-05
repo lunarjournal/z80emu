@@ -4,7 +4,7 @@ This repository contains a bare bones implementation of a `Z80` emulator (writte
 
 The simulator interface steps through a compiled binary and dumps the contents of each `Z80` register after each fetch, decode, execute instruction cycle to the console.
 
-> `Z80` assembly programs are intended to be compiled with [z80asm](https://www.nongnu.org/z80asm/)
+> `Z80` assembly programs are intended to be compiled with [`z80asm`](https://www.nongnu.org/z80asm/)
 
 Files:
 <br/>
