@@ -8,5 +8,5 @@ The simulator interface steps through a compiled binary and dumps the contents o
 
 Files:
 <br/>
-* `z80.ts` - core implementation. <br/>
-* `main.ts` - simulator interface.
+* `z80.ts` - `core implementation.` <br/>
+* `main.ts` - `simulator interface.`
