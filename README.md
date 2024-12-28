@@ -1,6 +1,6 @@
 # z80emu
 
-`Project status` : `Work In Progress`
+`Project Status` : `Work In Progress`
 
 This repository contains a bare bones implementation of a `Z80` emulator (written in `Typescript`), supporting up to `150+` basic `opcodes`. It is intended to be an educational project to show how one would approach simulating the behaviour of an `8-bit` microprocessor.
 
