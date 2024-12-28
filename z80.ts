@@ -2,6 +2,8 @@
  * @file z80.ts
  * @brief Experimental Z80 Emulator - z80.ts
  *
+ * Author: Dylan Müller
+ *
  * +---------------------------------------+
  * |   .-.         .-.         .-.         |
  * |  /   \       /   \       /   \        |
